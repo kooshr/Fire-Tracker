@@ -1,6 +1,6 @@
 # Fire Tracker
 
-We initially made this project for Digitize II Hackathon
+We initially made this project for Digitize II Hackathon, and ended up winning 1st place.
 
 <h2>Inspiration</h2>
 Forest Fires are a very common, and dangerous, problem in California. In the entire state of California, 5.4 million acres of land are burnt (approximately 5%). From 2014-19, 5.1 billion dollars have been lost due to forest fires.
