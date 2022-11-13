@@ -9,7 +9,7 @@ Forest Fires are a very common, and dangerous, problem in California. In the ent
 The fire tracker is quite simple. Due to their low cost and cheap design, they can be sold in bulk and are quite expendable. You set them up in a perimeter around areas that are at high risk for forest fires. They will keep watch 24/7 and alert the authorities and website when a potential fire is there.
 
 <h2>How I built it</h2>
-We used Arduino to build the actual prototype and code the prototype. Coolterm is used to format the output from the Arduino device and connects wirelessly to the prototype. Atom then converts the txt file outputted by Coolterm and embeds it into a seamless html + css webpage.
+We used Arduino and C++ to build the actual prototype and code the prototype. Coolterm is used to format the output from the Arduino device and connects wirelessly to the prototype. Atom then converts the txt file outputted by Coolterm and embeds it into a basic html + css webpage. We were going to add js as well, but did not have the time to
 
 <h2>Challenges I ran into</h2>
 The main challenge was getting the website to work properly and for it to be wireless. We figured it out at the end though.
