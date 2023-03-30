@@ -1,5 +1,7 @@
 # Fire Tracker
 
+<img src = "FireTrackerLogo.png"/>
+
 We initially made this project for Digitize II Hackathon, and ended up winning 1st place.
 
 <h2>Inspiration</h2>
